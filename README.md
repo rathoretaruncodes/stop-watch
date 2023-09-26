@@ -1,5 +1,4 @@
-# stop-watch
-# Stopwatch Repository README
+# Stopwatch 
 
 ## Description
 This repository contains a simple yet versatile stopwatch application implemented using HTML, CSS, and JavaScript. This stopwatch can be used for various timing needs, from tracking workout durations to measuring event durations with precision.
