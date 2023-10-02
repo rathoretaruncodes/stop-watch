@@ -21,7 +21,6 @@ resetBtn.addEventListener('click', function () {
 	document.getElementById('hr').innerHTML = "00";
 	document.getElementById('min').innerHTML = "00";
 	document.getElementById('sec').innerHTML = "00";
-	document.getElementById('count').innerHTML = "00";
 });
 
 function stopWatch() {
